@@ -1,0 +1,29 @@
+.container-style{
+    background-color: lightblue;
+    padding: 40px;
+    margin: 40px;
+    border-radius: 20px;
+}
+
+.container-style-update{
+    background-color: white;
+    padding: 40px;
+    margin: 40px;
+    border-radius: 20px;
+}
+
+.setuppercase{
+    text-transform: uppercase;
+}
+
+.font-style{
+    margin-top: 10px;
+    font-family: Roboto;
+    color: black;
+}
+
+.submit-style{
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+}
